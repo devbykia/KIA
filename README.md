@@ -31,7 +31,7 @@
 
 <br>
 ---
-**VMP Developer**
+<strong>VMP Developer</strong>
 <div align="center">
 <br>
 <p align="center">
