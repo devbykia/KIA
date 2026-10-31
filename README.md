@@ -1,5 +1,5 @@
 <div align="center">
-"<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/dc04acbd-92ca-4140-a366-83534362b2fd" />
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/dc04acbd-92ca-4140-a366-83534362b2fd" />
 
 
 <br><br>
@@ -9,7 +9,7 @@
 ### Developer • VMP Servers
 
 <br>
-.
+
 
 <br>
 
@@ -30,9 +30,7 @@
 - Server Optimization & Performance  
 
 <br>
-
 ---
-
 **VMP Developer**
 <div align="center">
 <br>
