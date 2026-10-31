@@ -1,2 +1,42 @@
+<div align="center">
+
+<img src="./profile.jpg" width="220" style="border-radius: 50%; border: 3px solid #4a90e2;"/>
+
+<br><br>
+
 # KIA
-👋Hello there! I’m Kia.🚀VMP Server Developer &amp; Game Master I specialize in managing and developing server environments for VMP,ensuring a seamless experience for the community.When I’m not coding or configuring servers, you can find me overseeing gameplay as a Game Master 🛠️ Focusing on: Server Development | Game Management | Community Experience
+
+### Developer • VMP Servers
+
+<br>
+
+**توسعه‌دهنده سرورهای وی‌ام‌پی**
+
+من کیام. تمرکز اصلیم روی توسعه و مدیریت سرورهای **VMP** هست.  
+اسکریپت‌نویسی، سیستم‌های جاب، گنگ، اقتصاد، ادمین تولز و بهینه‌سازی سرور از تخصص‌هامونه.
+
+<br>
+
+---
+
+### Skills
+
+`Lua` &nbsp; `JavaScript` &nbsp; `Node.js` &nbsp; `MySQL` &nbsp; `FiveM` &nbsp; `VMP Framework`
+
+<br>
+
+### Focus
+
+- Custom Job Systems  
+- Gang & Organization Systems  
+- Economy & Inventory  
+- Admin & Anti-Cheat Tools  
+- Server Optimization & Performance  
+
+<br>
+
+---
+
+**VMP Developer**
+
+</div>
