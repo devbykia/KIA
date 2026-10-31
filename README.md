@@ -37,5 +37,6 @@
 
 </div>
 <div align="center">
-  <img src="./profile.jpg" width="280" style="border-radius: 12px;" />
+  <img src="./<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/65bbe68b-9842-4a58-aec5-cd65dae06938" />
+" width="280" style="border-radius: 12px;" />
 </div>
