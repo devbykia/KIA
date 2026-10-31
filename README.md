@@ -35,26 +35,5 @@
 
 **VMP Developer**
 <div align="center">
-  <img src="https://imgur.com/a/FQ1yFr8#kSrZqUM" width="220" />
 
-  <h1>KIA</h1>
-  <h3>Developer • VMP Servers</h3>
 
-  <br>
-
-  ### Skills
-  `Lua` &nbsp; `JavaScript` &nbsp; `Node.js` &nbsp; `MySQL` &nbsp; `FiveM` &nbsp; `VMP Framework`
-
-  <br>
-
-  ### Focus
-  - Custom Job Systems
-  - Gang & Organization Systems
-  - Economy & Inventory
-  - Admin & Anti-Cheat Tools
-  - Server Optimization & Performance
-
-  <br><br>
-
-  **VMP Developer**
-</div>
