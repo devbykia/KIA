@@ -18,7 +18,7 @@
 ### Skills
 
 `Lua` &nbsp; `JavaScript` &nbsp; `Node.js` &nbsp; `MySQL` &nbsp; `FiveM` &nbsp; `VMP Framework`
-
+___
 <br>
 
 ### Focus
@@ -28,7 +28,7 @@
 - Economy & Inventory  
 - Admin & Anti-Cheat Tools  
 - Server Optimization & Performance  
-
+___
 <br>
 
 <strong> VMP Developer</strong>
