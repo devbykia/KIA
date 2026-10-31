@@ -1,6 +1,5 @@
 <div align="center">
-<img width="640" height="640" alt="image" src="![Uploading image.jpeg…]()
-" />
+<img width="640" height="640" alt="image" src="https://pin.it/6GOlslA0T" />
 
 
 <br><br>
