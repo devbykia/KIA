@@ -36,3 +36,6 @@
 **VMP Developer**
 
 </div>
+<div align="center">
+  <img src="./profile.jpg" width="280" style="border-radius: 12px;" />
+</div>
