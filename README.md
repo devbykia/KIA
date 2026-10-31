@@ -30,8 +30,8 @@
 - Server Optimization & Performance  
 
 <br>
----
-<strong>VMP Developer</strong>
+
+<strong> VMP Developer</strong>
 <div align="center">
 <br>
 <p align="center">
