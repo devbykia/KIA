@@ -12,17 +12,11 @@
     <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript" />
   </p>
 
+  <br>
+  
+  <img src="https://media.giphy.com/media/7s6AntsB8gE0J0bWkB/giphy.gif" width="500" alt="FiveM Roleplay" />
+
 </div>
-
----
-
-### About Me
-
-Hey, I'm **Kia**.  
-FiveM developer and VMP server specialist.
-
-I focus on building high-performance server environments, custom systems, and deep roleplay experiences.  
-From complex scripts to gang management and Game Mastering — I care about quality and detail.
 
 ---
 
