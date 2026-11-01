@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="./avatar.png" width="180" alt="Kia" />
+  <img src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/72eae0a8-e8c8-42df-9e04-6dae5e0022f5" />
+" width="180" alt="Kia" />
   
   <h1>Kia</h1>
   <h3>FiveM Developer • VMP Server Developer • Gang Manager • Game Master</h3>
