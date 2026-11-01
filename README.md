@@ -16,17 +16,17 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 Hey, I'm **Kia**.  
 FiveM developer and VMP server specialist.
 
-I've been working in the GTA roleplay scene for years — from building complex custom scripts and systems to managing gangs and running as a Game Master.  
-I focus on creating deep roleplay experiences, logical systems, and attention to detail.
+I focus on building high-performance server environments, custom systems, and deep roleplay experiences.  
+From complex scripts to gang management and Game Mastering — I care about quality and detail.
 
 ---
 
-### 💻 Skills
+### Skills
 
 ```text
 Lua            ████████████████████  Advanced
