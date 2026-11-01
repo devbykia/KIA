@@ -14,7 +14,7 @@
 
   <br>
   
-  <img src="https://media.giphy.com/media/7s6AntsB8gE0J0bWkB/giphy.gif" width="250"alt="FiveM Roleplay" />
+  <img src="https://media.giphy.com/media/7s6AntsB8gE0J0bWkB/giphy.gif" width="250" alt="FiveM Roleplay" />
 
 </div>
 
