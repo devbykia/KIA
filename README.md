@@ -1,9 +1,8 @@
 <div align="center">
   
-  <!-- اگه عکس پروفایل خاصی داری لینکش رو بذار -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5qZ3Z0b2J0eGx5eGx5eGx5eGx5eGx5eGx5eGx5eGx5eGx5eGx5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" width="120" />
+  <img src="./avatar.png" width="180" alt="Kia" />
   
-  <h1>کیا | Kia</h1>
+  <h1>Kia</h1>
   <h3>FiveM Developer • VMP Server Developer • Gang Manager • Game Master</h3>
 
   <p>
@@ -15,11 +14,19 @@
 
 </div>
 
----.
+---
+
+### 👋 About Me
+
+Hey, I'm **Kia**.  
+FiveM developer and VMP server specialist.
+
+I've been working in the GTA roleplay scene for years — from building complex custom scripts and systems to managing gangs and running as a Game Master.  
+I focus on creating deep roleplay experiences, logical systems, and attention to detail.
 
 ---
 
-### 💻 my work
+### 💻 Skills
 
 ```text
 Lua            ████████████████████  Advanced
@@ -27,12 +34,3 @@ JavaScript     ██████████████████░░  Adv
 SQL            ████████████████░░░░  Intermediate
 HTML / CSS     ███████████████░░░░░  Intermediate
 Node.js        ████████████░░░░░░░░  Intermediate
-<br>
-
-<strong> VMP Developer</strong>
-<div align="center">
-<br>
-<p align="center">
-  <a href="https://vmp.ir/">vmp.ir</a>
-</p>
-
