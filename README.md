@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/59dd5a58-4f54-4e9f-9102-9f5ffa7c872e" />
+  <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/59dd5a58-4f54-4e9f-9102-9f5ffa7c872e" />
 
   
   <h1>Kia</h1>
